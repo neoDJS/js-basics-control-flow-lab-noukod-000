@@ -34,4 +34,5 @@ function switchOnCharmFromTip(tip) {
     default:
 
   }
+  return charm
 }
