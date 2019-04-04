@@ -21,3 +21,14 @@ function scuberGreetingForFeet(someValue) {
 function ternaryCheckCity(dest) {
   return dest === 'NYC' ? "Ok, sounds good." : "No go.";
 }
+
+function switchOnCharmFromTip(tip) {
+  let charm = '';
+  switch (tip) {
+    case 'generous':
+          
+      break;
+    default:
+      
+  }
+}
