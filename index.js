@@ -13,4 +13,5 @@ function scuberGreetingForFeet(someValue) {
   } else {
 
   }
+  return greeting
 }
