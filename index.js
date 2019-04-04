@@ -32,7 +32,7 @@ function switchOnCharmFromTip(tip) {
       charm = "Thank you.";
       break;
     default:
-
+      charm = "Bye.";
   }
   return charm
 }
