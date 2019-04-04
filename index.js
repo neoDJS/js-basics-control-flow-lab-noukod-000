@@ -26,9 +26,9 @@ function switchOnCharmFromTip(tip) {
   let charm = '';
   switch (tip) {
     case 'generous':
-          
+
       break;
     default:
-      
+
   }
 }
