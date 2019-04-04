@@ -26,7 +26,10 @@ function switchOnCharmFromTip(tip) {
   let charm = '';
   switch (tip) {
     case 'generous':
-
+      charm = "Thank you so much.";
+      break;
+    case 'generous':
+      charm = "Thank you.";
       break;
     default:
 
