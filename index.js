@@ -5,9 +5,9 @@ function scuberGreetingForFeet(someValue) {
   let greeting = "";
 
   if (someValue <= 400) {
-
+    greeting = 'This one is on me!';
   } else if (true) {
-
+    greeting = 'I will gladly take your thirty bucks.';
   } else if (someValue > 2500) {
     greeting = 'No can do.';
   }
