@@ -28,7 +28,7 @@ function switchOnCharmFromTip(tip) {
     case 'generous':
       charm = "Thank you so much.";
       break;
-    case 'generous':
+    case 'not as generous':
       charm = "Thank you.";
       break;
     default:
