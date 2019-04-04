@@ -5,8 +5,8 @@ function scuberGreetingForFeet(someValue) {
   greeting = "";
 
   if (someValue <= 400) {
-    
+
   } else if (true) {
-    
+
   }
 }
